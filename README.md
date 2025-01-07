@@ -71,5 +71,20 @@ npm test
 ```
 All functions are tested to ensure that they handle various inputs and edge cases correctly.
 
+![results of unit testing](./images/unit_testing_results.png)
+
+# Webpage Screenshots
+Website flight filtering example:
+![website showing flight filtering](./images/flights_data.png)
+
+Website airport data example:
+![website showing airport data](./images/airport_data.png)
+
+Website Flight Frequency Facts:
+![website showing flight frequency facts](./images/flight_frequency_info.png)
+
+Website Timezone Differences Facts:
+![website showing timezone facts](./images/timezone_differences.png)
+
 # Conclusion
 This project showcases how JavaScript can be used to load, manipulate, and analyze data in a web page. The use of functional programming principles helps maintain clean and predictable code, while the interactive features provide users with the ability to explore the dataset and view useful statistics.
