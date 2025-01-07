@@ -1,6 +1,9 @@
 # Overview
 This project demonstrates the use of JavaScript, Node.js, and HTML to create a basic web page that allows for the analysis and filtering of flight and airport data. The web page interacts with two datasets containing flight and airport information from OpenFlights, enabling users to explore flight data and view relevant statistics.
 
+Webpage Display
+![website main view](./images/website.png)
+
 # Features
 - Data Loading: Downloads and merges flight and airport datasets.
 - Mapping Function: Allows modifications across the dataset with timestamp tracking.
